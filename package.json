@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@grpc/grpc-js": "^1.7.3",
+    "grpc-tools": "^1.11.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "ts-protoc-gen": "^0.15.0"
+  }
+}
